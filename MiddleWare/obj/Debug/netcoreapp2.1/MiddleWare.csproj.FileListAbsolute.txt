@@ -1,0 +1,14 @@
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\bin\Debug\netcoreapp2.1\MiddleWare.deps.json
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\bin\Debug\netcoreapp2.1\MiddleWare.runtimeconfig.json
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\bin\Debug\netcoreapp2.1\MiddleWare.runtimeconfig.dev.json
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\bin\Debug\netcoreapp2.1\MiddleWare.dll
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\bin\Debug\netcoreapp2.1\MiddleWare.pdb
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\obj\Debug\netcoreapp2.1\MiddleWare.csprojAssemblyReference.cache
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\obj\Debug\netcoreapp2.1\MiddleWare.csproj.CoreCompileInputs.cache
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\obj\Debug\netcoreapp2.1\MiddleWare.RazorAssemblyInfo.cache
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\obj\Debug\netcoreapp2.1\MiddleWare.RazorAssemblyInfo.cs
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\obj\Debug\netcoreapp2.1\MiddleWare.AssemblyInfoInputs.cache
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\obj\Debug\netcoreapp2.1\MiddleWare.AssemblyInfo.cs
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\obj\Debug\netcoreapp2.1\MiddleWare.RazorTargetAssemblyInfo.cache
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\obj\Debug\netcoreapp2.1\MiddleWare.dll
+C:\Users\zaspard\source\repos\MiddleWare\MiddleWare\obj\Debug\netcoreapp2.1\MiddleWare.pdb
